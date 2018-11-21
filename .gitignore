@@ -1,0 +1,11 @@
+project/
+target/
+.idea/
+datafeed/
+.DS_Store
+.cache-main
+.classpath
+.gitignore
+.project
+.settings/
+bin/
